@@ -1,1 +1,1 @@
-# awesome-amazon-seller-tools
+# awesome amazon seller tools
