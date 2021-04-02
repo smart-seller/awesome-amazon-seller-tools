@@ -1,13 +1,6 @@
 # Awesome Amazon Seller Tools
 
 ## Contents
-
-- [Feedback & Reviews](#software-and-tools)
-- [Marketing Optimization](#podcasts)
-- [Analytics](#blogs)
-- [Other](#other)
-
-
 - [Feedback & Reviews](#feedback-reviews)
 - [Marketing Optimization](#marketing-optimiztion)
 - [Analytics](#analytics)
@@ -45,6 +38,7 @@
 - [xSellco](https://www.xsellco.com/feedback?utm_source=affiliate&utm_campaign=493ad7f6d045d3dcea1a399c4aa06d27&utm_medium=Link+Share) - xSellco Feedback allows sellers to request feedback on the right products, from the right customers, at the right time. Sellers can improve their rating through automated intelligent feedback requests on Amazon and eBay.
 
 ## Marketing & Optimization
+- [Cashbackbase](https://www.cashbackbase.com/) - Cashbackbase is an Amazon deals community which is now popular in the United States. It covers over  7,000,000 real amazon buyers and features with one-to-one precision advertising email marketing, so it is good for sellers to boost sales and clear stock. Besides, it does not have limitations on the numbers of feedback or review of your store,  so it is easy for sellers to join.
 - [Run Out Of Stock](https://www.runoutofstock.com/) - Run Out Of Stock monitors products for changes in sales, price, search ranking, listing data changes etc.
 - [Scientific Seller Keyword Tool](https://app.scientificseller.com/keywordtool#/) - Scientific Seller Keyword Tool
 - [Efficient Era](https://efficientera.com/) - Efficient Era provides alerts, analytics and automation for Amazon Sellers. Features include buyer-to-reviewer matching, email automation, review alerts, feedback alerts, bulk order alerts, inventory analytics, Sponsored Product Ads analysis, listing hijack alerts and VAT invoice automation. Efficient Era supports multiple Amazon sites (North America, EU, Japan), and all tools are included for the same price.
@@ -53,12 +47,12 @@
 - [CashCowPro](https://www.cashcowpro.com/) - CashCowPro includes a range of marketing, analytics and inventory features for Amazon sellers. 
 - [AmzDataStudio](https://amzdatastudio.com/) - AmzDataStudio extracts the exact backend search terms used in listings on Amazon.com and international Amazon marketplaces. Sellers can discover the keywords used by their competitors and use them in their own listings, saving time researching keywords. A 100% accuracy guarantee is provided.
 - [Azon Seller Tools](https://azonsellertools.com/) - Azon Seller Tools is an extensive collection of tools designed for Amazon private label sellers.
+- [AMZBase](https://www.amzbase.com) - MZBase is a free and useful tool for assisting you in your search to find products to sell on Amazon. It helps sellers to quickly obtain the ASIN No. and the title description of listings on Amazon. As well as this, it provides immediate access to CamelCamelCamel, Alibaba, AliExpress, eBay and Google search engines, while also calculating FBA fees to estimate your potential profits.
 - [PPC Scope](https://membersv2.ppcscope.com/) - PPC Scope is an Amazon Sponsored Products (PPC) advertising analytics and optimization platform.
 - [AMZ Tracker](https://www.amztracker.com/) - AMZ Tracker is a set of tools designed to improve Amazon keyword rankings (SEO). 
 - [FBA Keyword Tracker](http://www.fbakeywordtracker.com/) - Free Amazon keyword ranking tracking tool for private label FBA sellers. 
 - [SellerPrime](https://www.sellerprime.com/) - SellerPrime helps Amazon sellers choose products to sell, and discover how to improve sales of their existing products.
 - [Helium 10](https://crushtrk.com/?a=998&c=7&p=r&s1=amzbase) - Helium 10 tools are designed to save time, find profitable products, discover profitable keywords, remove unneeded keywords, identify FBA reimbursements for damaged/lost inventory, and optimize product listings. Helium 10 monitors competitors and analyzes product trends to create opportunities for merchants to expand their Amazon private label business.
-- [Cashbackbase](https://www.cashbackbase.com/) - Cashbackbase is an Amazon deals community which is now popular in the United States. It covers over  7,000,000 real amazon buyers and features with one-to-one precision advertising email marketing, so it is good for sellers to boost sales and clear stock. Besides, it does not have limitations on the numbers of feedback or review of your store,  so it is easy for sellers to join.
 - [ZonGuru](https://zonguru.com/) - ZonGuru is a suite of tools for professional Amazon sellers, covering product research, eBay listing, email automation and more. 
 - [AMZ.One](https://www.amz.one/) - AMZ.One provides a range of Amazon tracking and marketing tools including keyword rank tracking
 - [amz4seller](https://www.amz4seller.com/) - amz4seller automatically tracks, analyzes and visualizes all sales data, providing Amazon sellers with all the key metrics for their stores and products. Features include Product Sessions Tracking by ASIN, Profit Analysis, Keyword Ranking Tracker, Category Ranking Tracker, Campaign Analysis, Reverse-Lookup, Review Analysis and Auto Get Review.
@@ -67,6 +61,7 @@
 
 
 ## Analytics
+- [AMZ.DO](http://amz.do) - AMZDO is a free amazon seller tool for amazon marketing. The super url generator improves listing ranking in search result once the link is clicked and traffic analytics. 
 - [PPC Scope](https://membersv2.ppcscope.com/) - PPC Scope is an Amazon Sponsored Products (PPC) advertising analytics and optimization platform. 
 - [ShopKeeper](https://shopkeeper.com/) - Shopkeeper is a sales and profit dashboard for Amazon sellers. Sellers can see how much profit they have made on Amazon, across all marketplaces.
 - [MySales](https://www.terapeak.com/products/mysales) - MySales is a sales analysis and reporting tool from Terapeak. 
@@ -88,6 +83,7 @@
 
 ## Repricing
 
+- [informed.co](https://www.informed.co/?ref=ponysmith3) - Informed.co is an intelligent repricing platform that helps online merchants capture more sales by keeping their prices competitive at all times. Informed.co eliminates the need for manual pricing research by regularly adjusting prices based on powerful repricing strategies. By providing the tools and insight needed to maintain a competitive advantage, Informed.co helps online sellers become more visible in the marketplace, increasing sales and profits. Formerly Appeagle.
 - [ChannelMAX](http://www.channelmax.net/) - Management solution with innovative pricing.
 - [Seller Snap](https://sellersnap.io/) - SELLER SNAP is a game theory repricer for professional Amazon sellers, automatically adjusting the repricing strategy to find the optimal price for different competition scenarios. It also allows the seller to take control of repricing and apply basic rules if necessary. The SELLER SNAP dashboard includes detailed analytics on sales, profit, buy box share and more.
 - [xSellco](https://www.xsellco.com/?utm_source=affiliate&utm_campaign=493ad7f6d045d3dcea1a399c4aa06d27&utm_medium=Link+Share) - xSellco Feedback allows sellers to request feedback on the right products, from the right customers, at the right time. Sellers can improve their rating through automated intelligent feedback requests on Amazon and eBay.
@@ -99,7 +95,6 @@
 - [Wiser Optimization](https://www.wiser.com/optimization/) - Dynamic repricing service with support for a range of shopping carts and marketplaces.
 - [Marketplace Repricing](http://www.marketplacerepricing.com/amazon-repricing/) - Pricing intelligence and repricing solution. 
 - [Feedvisor](https://feedvisor.com/) - Feedvisor is an algorithmic repricing and revenue intelligence solution for high-volume Amazon sellers.
-- [informed.co](https://www.informed.co/?ref=ponysmith3) - Informed.co is an intelligent repricing platform that helps online merchants capture more sales by keeping their prices competitive at all times. Informed.co eliminates the need for manual pricing research by regularly adjusting prices based on powerful repricing strategies. By providing the tools and insight needed to maintain a competitive advantage, Informed.co helps online sellers become more visible in the marketplace, increasing sales and profits. Formerly Appeagle.
 - [BQool Repricing Central](https://www.bqool.com/products/repricing-central/) - Amazon repricing tool which updates prices multiple times per hour and fields competitor prices changes in real time. 
 - [eReprice](https://ereprice.com/) - eReprice is an Amazon repricing solution which monitors Amazon’s marketplace prices and makes changes to keep listings competitive.
 - [logicsale](https://www.logicsale.com/) - logicsale scans every 3-5 minutes via Intelligent Scan Manager. Win, hold, and increase prices in the BuyBox with BuyBoxCatcher feature.
