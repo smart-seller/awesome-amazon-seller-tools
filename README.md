@@ -55,6 +55,7 @@
 
 
 ## Analytics
+- [Flapen](https://flapen.com) - Flapen is a free real-time dashboard to monitor Amazon category changes in 19 country and 215 categories
 - [AMZ.DO](http://amz.do) - AMZDO is a free amazon seller tool for amazon marketing. The super url generator improves listing ranking in search result once the link is clicked and traffic analytics. 
 - [PPC Scope](https://membersv2.ppcscope.com/) - PPC Scope is an Amazon Sponsored Products (PPC) advertising analytics and optimization platform. 
 - [ShopKeeper](https://shopkeeper.com/) - Shopkeeper is a sales and profit dashboard for Amazon sellers. Sellers can see how much profit they have made on Amazon, across all marketplaces.
