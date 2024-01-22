@@ -34,6 +34,9 @@
 - [xSellco](https://www.xsellco.com/feedback?utm_source=affiliate&utm_campaign=493ad7f6d045d3dcea1a399c4aa06d27&utm_medium=Link+Share) - xSellco Feedback allows sellers to request feedback on the right products, from the right customers, at the right time. Sellers can improve their rating through automated intelligent feedback requests on Amazon and eBay.
 
 ## Marketing & Optimization
+- [Advigator](https://www.advigator.com/)
+Amazon Advertising automation software for Amazon brands. Just enter a daily budget and choose a target ACoS and you will have new optized campaigns running. 
+
 - [Cashbackbase](https://www.cashbackbase.com/) - Cashbackbase is an Amazon deals community which is now popular in the United States. It covers over  7,000,000 real amazon buyers and features with one-to-one precision advertising email marketing, so it is good for sellers to boost sales and clear stock. Besides, it does not have limitations on the numbers of feedback or review of your store,  so it is easy for sellers to join.
 - [Scientific Seller Keyword Tool](https://app.scientificseller.com/keywordtool#/) - Scientific Seller Keyword Tool
 - [Efficient Era](https://efficientera.com/) - Efficient Era provides alerts, analytics and automation for Amazon Sellers. Features include buyer-to-reviewer matching, email automation, review alerts, feedback alerts, bulk order alerts, inventory analytics, Sponsored Product Ads analysis, listing hijack alerts and VAT invoice automation. Efficient Era supports multiple Amazon sites (North America, EU, Japan), and all tools are included for the same price.
