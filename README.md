@@ -58,7 +58,8 @@
 - [AMZ.DO](http://amz.do) - AMZDO is a free amazon seller tool for amazon marketing. The super url generator improves listing ranking in search result once the link is clicked and traffic analytics. 
 - [PPC Scope](https://membersv2.ppcscope.com/) - PPC Scope is an Amazon Sponsored Products (PPC) advertising analytics and optimization platform. 
 - [ShopKeeper](https://shopkeeper.com/) - Shopkeeper is a sales and profit dashboard for Amazon sellers. Sellers can see how much profit they have made on Amazon, across all marketplaces.
-- [MySales](https://www.terapeak.com/products/mysales) - MySales is a sales analysis and reporting tool from Terapeak. 
+- [MySales](https://www.terapeak.com/products/mysales) - MySales is a sales analysis and reporting tool from Terapeak.
+- [Calcmatic](https://calcmatic.app) - Free online calculators for ecommerce profit, payment processing fees, shipping costs, and personal finance for Amazon sellers.
 - [HelloProfit](https://helloprofit.com/) - HelloProfit provides Amazon sellers with sales and profit analytics, both in aggregate and in detail, in near real-time. 
 - [ManageByStats](https://managebystats.com/main/) - ManageByStats provides product sales performance graphs by brand, product line, individual product and SKU, and an Amazon inventory management feature which predicts reordering quantities. Customer information is easily accessible and searchable, and an Amazon email system is integrated. The SellerMail add-on allows users to send automated emails to Amazon buyers, using customizable sequences and templates.
 - [AMZ4Seller](https://www.amz4seller.com/) - amz4seller automatically tracks, analyzes and visualizes all sales data, providing Amazon sellers with all the key metrics for their stores and products. Features include Product Sessions Tracking by ASIN, Profit Analysis, Keyword Ranking Tracker, Category Ranking Tracker, Campaign Analysis, Reverse-Lookup, Review Analysis and Auto Get Review.
