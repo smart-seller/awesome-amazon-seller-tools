@@ -52,6 +52,7 @@
 - [amz4seller](https://www.amz4seller.com/) - amz4seller automatically tracks, analyzes and visualizes all sales data, providing Amazon sellers with all the key metrics for their stores and products. Features include Product Sessions Tracking by ASIN, Profit Analysis, Keyword Ranking Tracker, Category Ranking Tracker, Campaign Analysis, Reverse-Lookup, Review Analysis and Auto Get Review.
 - [ASINBook](http://www.asinbook.com) - Amazon ASIN Lookup Tool
 - [Prestozon](https://prestozon.com/) - Prestozon provides automated bid suggestions and focused analytics for Amazon PPC ads. The suggested bids are customized for each keyword. Users can click to accept the suggestion and Prestozon will make the change in Seller Central. Other features include a complete bid history and performance charts per keyword, reallocation of ad spend from bad keywords to good ones, and easier identification of negative keywords from search terms.
+- [Amazon Scraper API](https://amazonscraperapi.com) - Production REST API for Amazon product detail pages, search results, and batch ASIN lookups across 20 marketplaces. Returns clean JSON (title, price, rating, reviews, brand, availability, variants). Residential proxies and TLS impersonation handled server-side. Includes an MCP server for AI agents and an n8n community node. 1000 free requests on signup.
 
 
 ## Analytics
