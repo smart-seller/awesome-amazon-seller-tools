@@ -30,6 +30,7 @@
 - [SellerApp](https://www.sellerapp.com/) - SellerApp (formerly SellerPrime) is an all-in-one Amazon seller platform covering product research, keyword tracking, listing optimization, PPC management, and profit analysis across 18+ marketplaces.
 - [Helium 10](https://i.helium10.com/c/1793920/3743859/37271) - Helium 10 tools are designed to save time, find profitable products, discover profitable keywords, remove unneeded keywords, identify FBA reimbursements for damaged/lost inventory, and optimize product listings. Helium 10 monitors competitors and analyzes product trends to create opportunities for merchants to expand their Amazon private label business.
 - [AMZ.One](https://www.amz.one/) - AMZ.One is an all-in-one Amazon seller platform offering keyword rank tracking, listing optimization analysis, hijack alerts, negative review notifications, and competitor sales tracking. Subscription plans start at $20/month with support for 17+ Amazon marketplaces.
+- [AMZBase](https://www.amzbase.com) - AMZBase is an educational resource hub for Amazon FBA sellers, curating third-party seller tools and publishing step-by-step guides covering product research, keyword strategy, listing optimization, and AI product photography. Features in-depth reviews of tools like Jungle Scout and Helium 10 with hands-on workflow frameworks.
 - [AMZBase Extension](https://chromewebstore.google.com/detail/amzbase-free-amazon-produ/nhebfnlghmjfcammdgbgfcomeonbfcfn) - Free Chrome extension for Amazon product research that overlays ASIN, Best Sellers Rank, FBA offer price, and seller count directly on Amazon search and category pages. Hovering over product images previews CamelCamelCamel price history and Keepa rank history charts. Supports 20+ Amazon marketplaces.
 - [AMZ.DO](http://amz.do) - Free tool for generating Amazon super URLs, ASIN URLs, brand URLs, and review URLs across major marketplaces to boost keyword ranking and drive targeted traffic to product listings. Includes click tracking and URL history.
 
@@ -116,7 +117,6 @@ The following links have been confirmed unreachable and are kept here for archiv
 - ~~[PPC Scope](https://membersv2.ppcscope.com/)~~ - PPC Scope was an Amazon Sponsored Products (PPC) advertising analytics and optimization platform.
 - ~~[FBA Keyword Tracker](http://www.fbakeywordtracker.com/)~~ - Free Amazon keyword ranking tracking tool for private label FBA sellers.
 - ~~[Azon Seller Tools](https://azonsellertools.com/)~~ - Domain now hosts a Chinese sports betting platform. Original Amazon private label tool collection is gone.
-- ~~[AMZBase](https://www.amzbase.com)~~ - No longer a seller tool. Now operates as an editorial/affiliate content site reviewing other Amazon tools; no direct tooling functionality remains.
 - ~~[ASINBook](http://www.asinbook.com)~~ - Amazon ASIN Lookup Tool
 - ~~[Prestozon](https://prestozon.com/)~~ - Prestozon provided automated bid suggestions and focused analytics for Amazon PPC ads.
 - ~~[MySales](https://www.terapeak.com/products/mysales)~~ - MySales was a sales analysis and reporting tool from Terapeak.
