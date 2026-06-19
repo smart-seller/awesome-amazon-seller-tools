@@ -4,6 +4,7 @@
 - [Feedback & Reviews](#feedback-reviews)
 - [Marketing & Optimization](#marketing-optimization)
 - [Analytics](#analytics)
+- [Open Source & AI Agents](#open-source-ai-agents)
 - [Repricing](#repricing)
 - [Amazon Consultants](#amazon-consultants)
 - [FBA Inbound](#fba-inbound)
@@ -44,6 +45,11 @@
 - [Seller Labs Genius Bundle](https://sellerlabs.com?fp_ref=poly61) - Seller Labs offers the Genius Bundle, an integrated suite of Amazon seller tools covering review automation (Feedback Genius), advertising optimization (Ad Genius), and data analytics (Profit Genius). The Quantify product has been rebranded and consolidated into Profit Genius, which centralizes Amazon metrics and integrates with tools like Google Sheets and Tableau.
 - [Seller Labs Amazon MCP](https://www.sellerlabs.com/amazon-mcp/?fp_ref=poly61) - Seller Labs' Amazon MCP Server lets sellers query and analyze their Amazon backend data using natural language, replacing tedious reports with conversational analytics to speed up operational decisions and optimization.
 - [Seller Labs Data Hub](https://www.sellerlabs.com/data-hub/?fp_ref=poly61) - Data Hub by Seller Labs centralizes Amazon sales, advertising, and profit metrics into a unified analytics workspace, with integrations to tools like Google Sheets and Tableau for custom reporting.
+
+## Open Source & AI Agents
+- [Amazon Selling Partner API Samples](https://github.com/amzn/selling-partner-api-samples) - Official open-source sample code for Amazon Selling Partner API use cases, useful for sellers and developers building custom reporting, catalog, order, inventory, and operations workflows.
+- [Amazon-Skills](https://github.com/nexscope-ai/Amazon-Skills) - Open-source AI agent skills for Amazon sellers covering product research, keyword research, competitor analysis, listing audits, advertising strategy, and seller operations.
+- [Keepa MCP](https://github.com/cosjef/keepa_MCP) - Open-source Model Context Protocol server that lets AI assistants query Keepa marketplace data for product research, price history, sales trend, inventory, and competitive analysis workflows.
 
 ## Repricing
 - [Informed Repricer](https://www.informed.co/?ref=ponysmith3) - Informed Repricer is an automated Amazon repricing tool that continuously monitors competitor prices and adjusts listings to win the Buy Box and grow profits. Supports custom repricing rules, min/max price floors, and adheres to Amazon's policies.
