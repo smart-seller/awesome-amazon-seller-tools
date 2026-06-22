@@ -1,5 +1,9 @@
 # Awesome Amazon Seller Tools
 
+<!-- LANG-NAV-START -->
+🌐 **English** · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md) · [Español](README.es.md) · [हिन्दी](README.hi.md) · [Português (BR)](README.pt-BR.md) · [العربية](README.ar.md) · [Русский](README.ru.md) · [日本語](README.ja.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [한국어](README.ko.md) · [Italiano](README.it.md) · [Bahasa Indonesia](README.id.md) · [Türkçe](README.tr.md) · [Tiếng Việt](README.vi.md) · [Polski](README.pl.md) · [Nederlands](README.nl.md) · [ไทย](README.th.md) · [Українська](README.uk.md) · [Filipino](README.fil.md) · [Bahasa Melayu](README.ms.md) · [Română](README.ro.md) · [Svenska](README.sv.md) · [Čeština](README.cs.md) · [Ελληνικά](README.el.md) · [Magyar](README.hu.md) · [Dansk](README.da.md) · [Suomi](README.fi.md) · [Slovenčina](README.sk.md) · [Norsk Bokmål](README.nb.md) · [Hrvatski](README.hr.md) · [Català](README.ca.md) · [Kiswahili](README.sw.md) · [Azərbaycanca](README.az.md) · [Afrikaans](README.af.md) · [Lietuvių](README.lt.md) · [Latviešu](README.lv.md) · [Eesti](README.et.md) · [isiZulu](README.zu.md) · [Galego](README.gl.md) · [Euskara](README.eu.md) · [Íslenska](README.is.md) · [Gaeilge](README.ga.md) · [Cymraeg](README.cy.md)
+<!-- LANG-NAV-END -->
+
 ## Contents
 - [Feedback & Reviews](#feedback-reviews)
 - [Marketing & Optimization](#marketing-optimization)
