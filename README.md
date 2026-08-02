@@ -83,6 +83,7 @@
 ## Listing Management
 - [Amazon HTML Editor](https://amzeditor.com) - A free online visual editor for creating and formatting Amazon product description HTML. Lets sellers design rich descriptions with structured text and formatting, then copy the generated HTML directly into Seller Central — no coding required.
 - [AMZ Europe](https://www.amzeurope.com/) - AMZ Europe helps Amazon sellers optimize product listings across European (DE, FR, IT, ES, NL, SE, PL) and US/UK marketplaces with localized copywriting and keyword research. Also offers email follow-up sequence writing for customer communication.
+- [ListingAI](https://lijustin655.github.io/f1-listingai/) - Free AI listing generator for Amazon & TikTok Shop sellers. Enter product name, category, and features - get optimized title, bullets, and description in 30 seconds. No signup required, 5 free generations daily.
 - [ScanLister](https://www.scanlister.com/) - Desktop application for bulk scanning and listing products to Amazon using barcode scanners, with built-in pricing, FBA shipment management, and label printing. Originally focused on media/book sellers, now supports multiple Amazon product categories.
 - [JoeLister](https://www.joelister.com/) - Cross-lists Amazon FBA inventory to eBay and Shopify, automatically syncing quantities and prices in real-time. Routes orders to Amazon for fulfillment and uploads tracking information automatically.
 
