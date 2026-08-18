@@ -88,6 +88,7 @@
 
 ## Product Photography
 - [Amazon Image & Video Downloader](https://asincrate.com) - Chrome extension that downloads Amazon product images and videos in bulk, organizing assets into variant folders with hi-res originals and CSV metadata export. Supports HLS/m3u8 video conversion to MP4 (up to 1080p) across 15+ Amazon marketplaces, with a free tier and Pro subscription at $4.99/month.
+- [ListingPic](https://listingpic.com/amazon-product-image-checker/) - Free tool to preview Amazon product image thumbnails and spot cropping issues before publishing.
 - [Amazon Video Downloader](https://chromewebstore.google.com/detail/amazon-video-downloader-%E2%80%94/hlbdbbiajamkpapfjmgghbcfknpfpbap) - A Chrome extension specifically for downloading product videos from Amazon listing pages. Enables sellers to save and analyze competitor product videos for research and reference.
 - [Clipping Magic](https://clippingmagic.com/) - Clipping Magic is a web-based AI-powered background removal tool explicitly targeting ecommerce sellers. Features include Auto-Clip AI, manual fine-tuning tools, bulk processing, and export formats suited for Amazon and eBay product photography.
 - [FotoFuze](http://fotofuze.com/) - FotoFuze is an AI-powered product photography editor trusted by hundreds of thousands of Amazon and Etsy sellers. It offers background removal, image enhancement, and editing tools to transform ordinary photos into professional product images.
