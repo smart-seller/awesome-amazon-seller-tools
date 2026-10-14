@@ -59,6 +59,7 @@
 - [Feedvisor](https://feedvisor.com/) - Feedvisor's Agentis Commerce platform uses AI to orchestrate Amazon seller decisions across dynamic pricing, sponsored ads, inventory, and competitive intelligence. Targets high-volume sellers seeking integrated optimization of Buy Box share, margins, and advertising efficiency.
 - [BQool Repricing Central](https://www.bqool.com/products/repricing-central/) - AI-powered Amazon repricer that uses multiple intelligent strategies to win the Buy Box while protecting profit margins. Supports 9 Amazon marketplaces with automated scheduled repricing, competitor analysis, and detailed analytics.
 - [logicsale](https://www.logicsale.com/) - logicsale is an automated repricing tool for Amazon and eBay sellers, featuring BuyBoxCatcher for winning the Amazon Buy Box and dynamic pricing algorithms backed by 14 years of repricing experience. Offers a free trial with no contract required.
+- [Aura](https://goaura.com/) - Automated repricer for Amazon and Walmart sellers, with AI-powered strategies for Amazon. Offers automated price adjustments, minimum and maximum price controls, repricing activity logs, and workflows for scheduling and listing management.
 
 ## Amazon Consultants
 - [SellerEngine Services](https://sellerengine.com/services/) - SellerEngine offers Amazon seller services including account reinstatement, account verification, compliance guidance, and appeal support through a partnership with Cabilly & Co., a law firm specializing in Amazon and e-commerce legal matters. Also provides software tools such as Profit Bandit, Sellery, and Buy Box Buddy.
@@ -99,6 +100,7 @@
 - [FBAprep-Poland.eu](https://www.fbaprep-poland.eu/) - FBAprep-Poland.eu provides FBA prep services for ecommerce sellers who import their inventory into Europe from China and other countries within the FBA prep framework for Amazon EU fulfillment centers.
 - [McKenzie Services](http://www.mckenzieservices.com/) - McKenzie Services is an Oregon-based company offering inspection, labeling and packaging, storage and outbound shipping services. They also offer additional services for sellers on Amazon and other platforms.
 - [FBA Ship UK](http://www.fbashipuk.com/) - UK-based Amazon FBA prep centre offering labeling, prepping, and shipping to Amazon requirements. Also provides warehousing, multi-channel fulfillment (FBM), FNSKU labeling, container unloading, and return order handling.
+- [PrepCenter](https://prepcenter.com/) - Directory of Amazon FBA prep centers with crowdsourced seller reviews and ratings, plus a map view to help sellers find and compare prep service providers.
 
 ## Product Launch
 - [AMZ.One](https://www.amz.one/) - AMZ.One is an all-in-one Amazon seller platform offering keyword rank tracking, listing optimization analysis, hijack alerts, negative review notifications, and competitor sales tracking. Subscription plans start at $20/month with support for 17+ Amazon marketplaces.
