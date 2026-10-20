@@ -39,6 +39,7 @@
 - [AMZ.DO](http://amz.do) - Free tool for generating Amazon super URLs, ASIN URLs, brand URLs, and review URLs across major marketplaces to boost keyword ranking and drive targeted traffic to product listings. Includes click tracking and URL history.
 - [Ad Genius](https://www.sellerlabs.com/ad-genius/?fp_ref=poly61) - Ad Genius by Seller Labs is an Amazon PPC advertising automation tool that optimizes sponsored ad campaigns, automates bid management, and surfaces keyword and ACoS insights to improve ad efficiency and profitability.
 - [Ecomhunt](https://www.ecomhunt.com/?afmc=4y2) - Ecomhunt curates trending and high-potential products daily, providing AI insights, market data, and ad targeting analysis to help sellers launch and grow their e-commerce business.
+- [Off Hours](https://www.off-hours.app) - Amazon Ads scheduling and automation for Seller Central and Vendor Central accounts in all marketplaces across the North America, Europe and Far East regions. Runs dayparting, budget, event, performance and bid-adjustment rules on schedules and conditions the seller defines, checked every 15 minutes. Flat $149 per month per Amazon Ads account, never a percentage of ad spend. 14-day free trial.
 
 ## Analytics
 - [ShopKeeper](https://shopkeeper.com/) - Shopkeeper is an automated profit dashboard that calculates sales, costs, and 150+ Amazon fees to show true profits in real time. Supports multi-marketplace sellers across Amazon, Shopify, Walmart, eBay, and Etsy with inventory forecasting and alerts.
