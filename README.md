@@ -39,6 +39,7 @@
 - [AMZ.DO](http://amz.do) - Free tool for generating Amazon super URLs, ASIN URLs, brand URLs, and review URLs across major marketplaces to boost keyword ranking and drive targeted traffic to product listings. Includes click tracking and URL history.
 - [Ad Genius](https://www.sellerlabs.com/ad-genius/?fp_ref=poly61) - Ad Genius by Seller Labs is an Amazon PPC advertising automation tool that optimizes sponsored ad campaigns, automates bid management, and surfaces keyword and ACoS insights to improve ad efficiency and profitability.
 - [Ecomhunt](https://www.ecomhunt.com/?afmc=4y2) - Ecomhunt curates trending and high-potential products daily, providing AI insights, market data, and ad targeting analysis to help sellers launch and grow their e-commerce business.
+- [Nexscope](https://www.nexscope.ai/?co-from=smart-seller-awesome-amazon-seller-tools) - Nexscope is an ecommerce product research API and remote MCP that provides structured Amazon and marketplace product data for sellers and AI agents via OpenAPI. Self-serve API key with trial credits, then paid plans.
 
 ## Analytics
 - [ShopKeeper](https://shopkeeper.com/) - Shopkeeper is an automated profit dashboard that calculates sales, costs, and 150+ Amazon fees to show true profits in real time. Supports multi-marketplace sellers across Amazon, Shopify, Walmart, eBay, and Etsy with inventory forecasting and alerts.
