@@ -7,6 +7,7 @@
 ## Contents
 - [Feedback & Reviews](#feedback-reviews)
 - [Marketing & Optimization](#marketing-optimization)
+- [Advertising](#advertising)
 - [Analytics](#analytics)
 - [Repricing](#repricing)
 - [Amazon Consultants](#amazon-consultants)
@@ -37,9 +38,11 @@
 - [AMZBase](https://www.amzbase.com) - AMZBase is an educational resource hub for Amazon FBA sellers, curating third-party seller tools and publishing step-by-step guides covering product research, keyword strategy, listing optimization, and AI product photography. Features in-depth reviews of tools like Jungle Scout and Helium 10 with hands-on workflow frameworks.
 - [AMZBase Extension](https://chromewebstore.google.com/detail/amzbase-free-amazon-produ/nhebfnlghmjfcammdgbgfcomeonbfcfn) - Free Chrome extension for Amazon product research that overlays ASIN, Best Sellers Rank, FBA offer price, and seller count directly on Amazon search and category pages. Hovering over product images previews CamelCamelCamel price history and Keepa rank history charts. Supports 20+ Amazon marketplaces.
 - [AMZ.DO](http://amz.do) - Free tool for generating Amazon super URLs, ASIN URLs, brand URLs, and review URLs across major marketplaces to boost keyword ranking and drive targeted traffic to product listings. Includes click tracking and URL history.
-- [Ad Genius](https://www.sellerlabs.com/ad-genius/?fp_ref=poly61) - Ad Genius by Seller Labs is an Amazon PPC advertising automation tool that optimizes sponsored ad campaigns, automates bid management, and surfaces keyword and ACoS insights to improve ad efficiency and profitability.
-- [Advigator](https://www.advigator.com/) - Advigator is an Amazon Ads automation software: set a daily budget and target ACoS per product and it creates Sponsored Products, Brands, Display and Video campaigns, then automates keyword research, bid optimization, dayparting and placement multipliers. Amazon Ads Advanced Partner, all marketplaces, no monthly fee (% of ad spend), 30-day free trial.
 - [Ecomhunt](https://www.ecomhunt.com/?afmc=4y2) - Ecomhunt curates trending and high-potential products daily, providing AI insights, market data, and ad targeting analysis to help sellers launch and grow their e-commerce business.
+
+## Advertising
+- [Advigator](https://www.advigator.com/) - Advigator is an Amazon Ads automation software: set a daily budget and target ACoS per product and it creates Sponsored Products, Brands, Display and Video campaigns, then automates keyword research, bid optimization, dayparting and placement multipliers. Amazon Ads Advanced Partner, all marketplaces, no monthly fee (% of ad spend), 30-day free trial.
+- [Ad Genius](https://www.sellerlabs.com/ad-genius/?fp_ref=poly61) - Ad Genius by Seller Labs is an Amazon PPC advertising automation tool that optimizes sponsored ad campaigns, automates bid management, and surfaces keyword and ACoS insights to improve ad efficiency and profitability.
 
 ## Analytics
 - [ShopKeeper](https://shopkeeper.com/) - Shopkeeper is an automated profit dashboard that calculates sales, costs, and 150+ Amazon fees to show true profits in real time. Supports multi-marketplace sellers across Amazon, Shopify, Walmart, eBay, and Etsy with inventory forecasting and alerts.
